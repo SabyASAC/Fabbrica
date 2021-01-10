@@ -123,7 +123,7 @@ Some of the items in the menu are listed below :
 <div class="w3-container" id="where" style="padding-bottom:32px;">
   <div class="w3-content" style="max-width:700px">
     <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">WHERE TO FIND US</span></h5>
-    <p>Find us at some address mentioned above</p>
+    <p>Find us at the address mentioned above</p>
  
     
     <p><strong>Reserve</strong> a table, ask for today's special or just send us a message:</p>
